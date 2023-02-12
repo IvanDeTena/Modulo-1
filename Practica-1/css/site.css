@@ -1,0 +1,35 @@
+.container {
+    margin: auto;
+    width: 50%;
+  }
+  
+.img {
+    text-align: center;
+    position: relative;
+  }
+
+img.Avatar {
+    width: 20%;
+
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0 32px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+
+button{
+    background-color: #ecc100;
+    border: 30%;
+    border-radius: 15%;
+    color: rgb(0, 0, 0);
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
